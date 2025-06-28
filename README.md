@@ -68,9 +68,7 @@ Customer Churn: Explore patterns in customer behavior that lead to churn.
 
 Employee Attrition: Investigate reasons why employees leave the company.
 
-Loan Default: Understand which features predict loan repayment issues.
 
-Real Estate Prices: Find what drives housing prices in a city.
 
 ⚙️ Tools You Can Use
 Python (Pandas, Matplotlib, Seaborn, Plotly)
